@@ -23,7 +23,7 @@ https://www.collinsdictionary.com/dictionary/ 我喜欢的英文在线字典
 |     index / indices            	|     索引 （单/复）    	|                    	|     🌟🌟🌟🌟🌟       	|
 |     declare a variable         	|     声明一个变量      	|     dɪkleəʳ        	|     🌟🌟🌟🌟🌟       	|
 |     is equal to / equals       	|     等于              	|     iːkwəl         	|     🌟🌟🌟🌟🌟       	|
-|     minus    减 减    减       	|     减去              	|     maɪnəs         	|     🌟🌟🌟🌟🌟       	|
+|     minus         	|     减去              	|     maɪnəs         	|     🌟🌟🌟🌟🌟       	|
 |     combination                	|     组合              	|     kɒmbɪneɪʃən    	|     🌟🌟🌟         	|
 |     Repeat the same steps      	|     重复同样的步骤    	|                    	|     🌟🌟🌟         	|
 |     In this case               	|     在这种情况下      	|                    	|     🌟🌟🌟         	|
