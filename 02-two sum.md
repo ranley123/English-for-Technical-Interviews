@@ -1,4 +1,5 @@
 ## Resources
+https://www.bilibili.com/video/BV11h4y1P7Yp/?spm_id_from=333.999.0.0 视频链接
 
 https://leetcode.cn/problems/two-sum/ 题目链接
 
