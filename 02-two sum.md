@@ -61,7 +61,7 @@ if the sum of these two elements is equal to a target. If so
 then
 we can just directly return the two indices of these numbers
 and if not at the end of the program
-we will just return the an empty array by default.
+we will just return an empty array by default.
 
 ### Explain How to Use HashMap
 The second solution is to use hash map
@@ -104,9 +104,9 @@ the difference between the target and the current element.
 We're gonna check
 if the difference value word exists in this map or not.
 If so, then
-also we just directly return the to two indices.
+also we just directly return the two indices.
 If not we simply put the element and it's
 index in the map.
 
 At the end of the program
-we need to return the empty array by default
+we need to return an empty array by default
