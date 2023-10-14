@@ -1,0 +1,84 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "allowSyntheticDefaultImports": true,
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "./types/nitro-imports"
+      ],
+      "#paths": [
+        "../node_modules/.pnpm/nuxt@3.7.4_eslint@8.51.0_rollup@3.29.4_typescript@5.2.2/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "./.."
+      ],
+      "~/*": [
+        "../*"
+      ],
+      "@": [
+        "./.."
+      ],
+      "@/*": [
+        "../*"
+      ],
+      "~~": [
+        "./.."
+      ],
+      "~~/*": [
+        "../*"
+      ],
+      "@@": [
+        "./.."
+      ],
+      "@@/*": [
+        "../*"
+      ],
+      "assets": [
+        "../assets"
+      ],
+      "public": [
+        "../public"
+      ],
+      "#color-mode-options": [
+        "./color-mode-options"
+      ],
+      "#mdc-imports": [
+        "./file:/Users/keqing/Code/English-for-Technical-Interviews/.nuxt/mdc-imports"
+      ],
+      "#content/server": [
+        "../node_modules/.pnpm/@nuxt+content@2.8.5_rollup@3.29.4_vue@3.3.4/node_modules/@nuxt/content/dist/runtime/legacy/server"
+      ]
+    }
+  },
+  "include": [
+    "./types/nitro-nuxt.d.ts",
+    "../node_modules/.pnpm/@nuxtjs+color-mode@3.3.0_rollup@3.29.4/node_modules/@nuxtjs/color-mode/runtime/server",
+    "../../../../keqi/runtime/server",
+    "../node_modules/.pnpm/@nuxt-themes+tokens@1.9.1_postcss@8.4.31_rollup@3.29.4_vue@3.3.4/node_modules/@nuxt-themes/tokens/runtime/server",
+    "../node_modules/.pnpm/@nuxthq+studio@1.0.1_rollup@3.29.4/node_modules/@nuxthq/studio/runtime/server",
+    "../node_modules/.pnpm/@nuxtjs+mdc@0.2.2_rollup@3.29.4/node_modules/@nuxtjs/mdc/runtime/server",
+    "../node_modules/.pnpm/@nuxt+content@2.8.5_rollup@3.29.4_vue@3.3.4/node_modules/@nuxt/content/runtime/server",
+    "../node_modules/.pnpm/@vueuse+nuxt@10.5.0_nuxt@3.7.4_rollup@3.29.4_vue@3.3.4/node_modules/@vueuse/nuxt/runtime/server",
+    "../node_modules/.pnpm/nuxt-config-schema@0.4.6_rollup@3.29.4/node_modules/nuxt-config-schema/runtime/server",
+    "../node_modules/.pnpm/@nuxt-themes+docus@1.15.0_nuxt@3.7.4_rollup@3.29.4_vue@3.3.4/node_modules/@nuxt-themes/docus/app/module/runtime/server",
+    "../node_modules/.pnpm/nuxt-icon@0.3.3_rollup@3.29.4_vue@3.3.4/node_modules/nuxt-icon/runtime/server",
+    "../node_modules/.pnpm/@nuxt+telemetry@2.5.2_rollup@3.29.4/node_modules/@nuxt/telemetry/runtime/server",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ],
+  "exclude": [
+    "../node_modules",
+    "../node_modules/.pnpm/nuxt@3.7.4_eslint@8.51.0_rollup@3.29.4_typescript@5.2.2/node_modules/nuxt/node_modules",
+    "../dist"
+  ]
+}
