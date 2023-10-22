@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Users/keqing/Code/English-for-Technical-Interviews/node_modules/.pnpm/nuxt@3.7.4_eslint@8.51.0_rollup@3.29.4_typescript@5.2.2/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/Users/keqing/Code/English-for-Technical-Interviews/node_modules/.pnpm/nuxt@3.7.4_eslint@8.51.0_rollup@3.29.4_typescript@5.2.2/node_modules/nuxt/dist/app/entry.js"
+  }
+}

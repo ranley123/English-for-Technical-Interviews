@@ -1,0 +1,58 @@
+{
+  "name": "english-for-technical-interviews",
+  "version": "1.0.1",
+  "description": "enlish-for-technical-interviews",
+  "license": "MIT",
+  "sideEffects": false,
+  "engines": {
+    "node": "^18.18.0 || >=16.11.0"
+  },
+  "packageManager": "pnpm@8.9.0",
+  "type": "module",
+  "main": "./nuxt.config.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranley123/English-for-Technical-Interviews.git"
+  },
+  "keywords": [
+    "english"
+  ],
+  "author": "ranley123 Hanxian2Ai Alafun keqing77",
+  "bugs": {
+    "url": "https://github.com/ranley123/English-for-Technical-Interviews/issues"
+  },
+  "homepage": "https://github.com/ranley123/English-for-Technical-Interviews#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@nuxt-themes/docus": "^1.15.0",
+    "@nuxt/eslint-config": "^0.2.0",
+    "eslint": "^8.51.0",
+    "nuxt": "3.7.4"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "allowedVersions": {
+        "axios": "0.25.0",
+        "vite": "*"
+      },
+      "ignoreMissing": [
+        "postcss",
+        "postcss-*",
+        "webpack",
+        "axios",
+        "vite"
+      ]
+    }
+  }
+}
