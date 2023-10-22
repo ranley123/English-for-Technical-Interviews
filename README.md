@@ -5,7 +5,7 @@ b站搜索 长沙二人卷
 </h2><br>
 
 
-以后每期都会更新放在这里。
+网站：https://english-for-technical-interviews.netlify.app/
 
 script可能会有语法错误，因为都是自动生成的。我已经略微修改过，不过要是你看见了typo或者语法错误，可以提PR
 
