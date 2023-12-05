@@ -1,21 +1,20 @@
-# 专供程序员学习英语技术面试
+# English-for-technical-interviews
 
 <h2 align="center">
-b站搜索 长沙二人卷
+search '长沙二人卷' on 'bilbil' 
 </h2><br>
 
+In the future, each issue will be updated and placed here.
 
-网站：https://english-for-technical-interviews.netlify.app/
-
-script可能会有语法错误，因为都是自动生成的。我已经略微修改过，不过要是你看见了typo或者语法错误，可以提PR
+The script may have grammar errors because they are all automatically generated. I have made some slight modifications, but if you see any typos or grammar errors, please submit a pull request.
 
 <pre align="center">
-<a href="https://main--laylablog.netlify.app/">Docus</a> 构建
+<a href="https://main--laylablog.netlify.app/">Docus</a> build
 </pre>
 
 <p align="center">
 <br>
-<a href="#">🖥 在线预览 - to be done..</a>
+<a href="#">🖥 Preview - to be done..</a>
 <br><br> 
 <a href="#" rel="nofollow"><img src="https://vercel.com/button"></a>
 <a href="#" rel="nofollow"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
@@ -26,27 +25,26 @@ script可能会有语法错误，因为都是自动生成的。我已经略微�
 <strong>
 <samp>
 
-简体中文 · [English](README_en.md)
+English · [简体中文](README.md)
 
 </samp>
 </strong>
 </div>
 
-## 👋 介绍
+## 👋 Intro
 
 > 专供程序员学习英语技术面试
 
-对于程序的世界来说 , `English is the universal language`
+For the world of programming, `English is the universal language`
 
-学英语是因为还有先进生产力工具掌握在英文, 不要期待被污染的中文互联网给你答案， 学好英语， 你就能直接从源头获取信息。
-## ✨ 功能
+## ✨ Feature
 
-- [x] B站视频讲解 & 语音朗读 
-- [x] 在线文档
-- [ ] i18n 国际化支持 
-- [ ] 更多功能正在开发中...
+- [x] online video & voice reading on bilbil
+- [x] documentation
+- [ ] i18n Support 
+- [ ] More feat are under development...
 
-## 📥 启动
+## 📥 Run
 Run
 ```sh
 git clone repoUrl
@@ -60,7 +58,7 @@ Build
 pnpm run build
 ```
 
-## 维护者
+## Maintainers
 
 <table>
     <tbody>
@@ -81,6 +79,6 @@ pnpm run build
     </tbody>
 </table>
 
-## 协议
+## License
 
 [MIT](./LICENSE)
